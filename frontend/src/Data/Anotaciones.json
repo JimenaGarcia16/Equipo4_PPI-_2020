@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "idUsuario": 1,
+    "nombre": "Juan Manuel Quiroz",
+    "grado": "11-2",
+    "nota": "Llega tarde a clase",
+    "NoFalta": 1
+  },
+  {
+    "id": 2,
+    "idUsuario": 2,
+    "nombre": "Jimena Garcia",
+    "grado": "11-2",
+    "nota": "Llega tarde a clase",
+    "NoFalta": 1
+  },
+
+  {
+    "id": 3,
+    "idUsuario": 1,
+    "nombre": "Juan Manuel Quiroz",
+    "grado": "11-2",
+    "nota": "Llega tarde",
+    "NoFalta": 2
+  },
+  {
+    "id": 4,
+    "idUsuario": 2,
+    "nombre": "Jimena Garcia",
+    "grado": "11-2",
+    "nota": "Llega tarde",
+    "NoFalta": 2
+  },
+  {
+    "id": 5,
+    "idUsuario": 2,
+    "nombre": "Jimena Garcia",
+    "grado": "11-2",
+    "nota": "Llega tarde",
+    "NoFalta": 3
+  },
+  {
+    "id": 6,
+    "idUsuario": 2,
+    "nombre": "Jimena Garcia",
+    "grado": "11-2",
+    "nota": "No se presenta con el uniforme que corresponde",
+    "NoFalta": 4
+  },
+  {
+    "id": 7,
+    "idUsuario": 1,
+    "nombre": "Juan Manuel Quiroz",
+    "grado": "11-2",
+    "nota": "Contesta grocero a la maestra.",
+    "NoFalta": 3
+  },
+  {
+    "id": 8,
+    "idUsuario": 3,
+    "nombre": "Juanito Perez",
+    "grado": "6-1",
+    "nota": "Se queda dormido en clase",
+    "NoFalta": 1
+  },
+  {
+    "id": 9,
+    "idUsuario": 4,
+    "nombre": "Andrea Garcia",
+    "grado": "7-2",
+    "nota": "Contesta grocero.",
+    "NoFalta": 1
+  }
+]

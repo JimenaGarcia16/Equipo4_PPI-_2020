@@ -1,0 +1,40 @@
+.titulo {
+  margin: auto;
+  padding: 145px;
+}
+
+.b1 {
+  padding: 20px;
+  margin: 30px;
+  width: 200px;
+  height: 100px;
+  border: #1b8a43;
+  border-style: solid;
+  color: #e9bc30;
+  font-size: large;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+.b2 {
+  padding: 20px;
+  margin: 30px;
+  width: 200px;
+  height: 100px;
+  border: #1b8a43;
+  border-style: solid;
+  color: #e9bc30;
+  font-size: large;
+  font-weight: bold;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.Inferior {
+  position: fixed;
+  width: 100%;
+  bottom: 10px;
+  background-color: #1b8a43;
+  color: #fff;
+  padding: 25px;
+}

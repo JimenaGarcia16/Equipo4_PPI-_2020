@@ -1,0 +1,23 @@
+.Regresar {
+  padding: 20px;
+  margin: 30px;
+  width: 200px;
+  height: 100px;
+  border: #fff;
+  border-style: solid;
+  color: #e9bc30;
+  font-size: large;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+.boton {
+  color: #fff;
+}
+.boton:hover,
+.boton:link,
+.boton:visited,
+.boton:active {
+  color: #fff;
+  text-decoration: none;
+}
