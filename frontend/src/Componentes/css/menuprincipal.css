@@ -1,6 +1,6 @@
 .titulo {
   margin: auto;
-  padding: 145px;
+  padding: 60px;
 }
 
 .b1 {
@@ -31,10 +31,12 @@
 }
 
 .Inferior {
-  position: fixed;
-  width: 100%;
-  bottom: 10px;
-  background-color: #1b8a43;
-  color: #fff;
-  padding: 25px;
-}
+  margin-top: 8%;
+    width: 100%;
+    bottom: 10px;
+    background-color: #1b8a43;
+    color: #fff;
+    padding: 25px;
+  }
+  
+  

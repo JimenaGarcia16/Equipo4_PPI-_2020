@@ -8,7 +8,7 @@ function Formulario() {
       <div className="text-center">
         <Link to="/" className="Regresar">
           Menú principal
-        </Link>
+          </Link>
       </div>
     </footer>
   );
