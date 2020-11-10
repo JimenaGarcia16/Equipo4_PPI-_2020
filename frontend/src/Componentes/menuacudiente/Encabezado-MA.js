@@ -5,7 +5,7 @@ import imagen from "../../images/logo-MP.png";
 function Formulario() {
   return (
     <div className="text-center">
-   <img className="img-fluid" src={imagen} alt="" />
+   <img className="img-fluid" src={imagen} alt="" /> 
       <hr />
     </div>
   );
